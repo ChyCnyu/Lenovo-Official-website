@@ -1,0 +1,39 @@
+.Header {
+    background:#000;
+    height: 80px;
+}
+
+.logo {
+    float: left;
+    margin:20px 5%;
+}
+
+.Header ul {
+    display: inline-block;
+    float: left;
+    margin: 0;
+}
+
+.Header li {
+    display: inline-block;
+    font-size: 18px;
+    margin:15px 20px;
+}
+
+.Header a {
+    color:white;
+    text-decoration: none;
+}
+
+.Header .user {
+    margin: 30px 50px;
+    float: right;
+    margin: 20px 5%;
+}
+
+.Header input {
+    line-height: 2em;
+    background:gray;
+    border: none;
+}
+
